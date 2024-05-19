@@ -1,0 +1,13 @@
+This template should be considered released into the public domain.
+Where not possible, please consider it available under your choice
+of the MIT, ISC, Apache2 or BSD-2-clause licenses.
+
+This only applies to the template code. libopencm3 itself has it's own license.
+
+Bootloader part belongs to Piotr Gozdur <piotr_go> and is borrowed from below thread:
+https://www.elektroda.pl/rtvforum/viewtopic.php?t=3212595
+For any license details please contact author.
+AFAIK commercial use of this bootloader is not allowed!
+
+You should replace this file with the license of your _own_ project if you are
+using this as a template!
