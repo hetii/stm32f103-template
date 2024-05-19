@@ -21,7 +21,8 @@ Check LICENSE file and his awasome [DIY-A586](https://github.com/piotr-go/DIY-A5
 
 # Project build and flash
  1. Build project: `make -C src`
- 2. Copy binary firmware to usb storage: `make -C src mscflash` or by `cp src/bin/myproject.bin path/to/STM32F103C8/FIRMWARE.BIN`
+ 2. Copy binary firmware to usb storage: `make -C src mscflash`<br>
+    or by `cp src/bin/myproject.bin path/to/STM32F103C8/FIRMWARE.BIN`
 
 If you have an older git, or got ahead of yourself and skipped the ```--recurse-submodules```
 you can fix things by running ```git submodule update --init``` (This is only needed once)
